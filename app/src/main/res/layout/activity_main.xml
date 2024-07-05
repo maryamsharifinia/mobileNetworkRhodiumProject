@@ -13,6 +13,12 @@
         android:scaleType="fitCenter" />
 
     <Button
+        android:id="@+id/openMapButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Open Map Activity" />
+
+    <Button
         android:id="@+id/loadMapButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
